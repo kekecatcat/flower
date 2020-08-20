@@ -1,0 +1,2 @@
+INSERT INTO delivery (id, name, address_full, delivery_time, completed) VALUES (1, 'delivery1', '11 Jasmine', null, 'Y');
+INSERT INTO plant (id, name, price, delivery_id) VALUES (1, 'flower1', 10.0, null);
