@@ -69,4 +69,8 @@ public class DeliveryService {
 	public Delivery save (Delivery delivery) {
 		return deliveryRepository.save(delivery);
 	}
+
+	public void test() {
+		return;
+	}
 }
