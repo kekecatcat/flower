@@ -88,4 +88,7 @@ public class DeliveryService {
 	public void test6() {
 		return;
 	}
+	public void test7() {
+		return;
+	}
 }
