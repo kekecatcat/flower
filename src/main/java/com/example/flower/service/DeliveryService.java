@@ -73,4 +73,7 @@ public class DeliveryService {
 	public void test() {
 		return;
 	}
+	public void test2() {
+		return;
+	}
 }
